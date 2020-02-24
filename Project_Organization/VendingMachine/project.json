@@ -1,9 +1,8 @@
 {
-  "name": "PaymentDemo",
-  "description": "PaymentDemo using state machine",
+  "name": "VendingMachine",
+  "description": "Project Organization first practice",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.8.0-preview]",
     "UiPath.Mail.Activities": "[1.8.0-preview]",
     "UiPath.System.Activities": "[19.12.0-preview]",
